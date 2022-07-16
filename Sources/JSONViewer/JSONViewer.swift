@@ -1,6 +1,6 @@
 import SwiftUI
 
-@available(macOS 10.15, iOS 13.0, *)
+@available(macOS 10.15, iOS 13.0, watchOS 8, *)
 public struct JSONView: View {
 	let json: Data
 	
